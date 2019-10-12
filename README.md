@@ -1,11 +1,11 @@
-Contact Manager App made with following libs:
--React
--React Context Api
--React Router DOM
--Classnames
--Bootstrap
--Axios
--JSON Placeholder API
+Contact Manager App made with following libs:<br>
+-React<br>
+-React Context API<br>
+-React Router DOM<br>
+-Classnames<br>
+-Bootstrap<br>
+-Axios<br>
+-JSON Placeholder API<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
